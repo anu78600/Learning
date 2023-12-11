@@ -7,7 +7,7 @@ ar vo data ko form ke through pass karna chahiye python code ke andr'''
 
 @app.route('/',methods=['GET','POST'])
 def home_page():
-    return render_template('index.html')
+    return render_template("index.html")
 
 
 @app.route("/")
