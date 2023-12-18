@@ -1,0 +1,38 @@
+sql                         nosql
+|                             |
+structured query language     not only structured query language
+
+mysql                            MangoDB
+
+mssql                            Cassandra
+
+db2                              Habase
+
+                                 influx
+ 
+                                 New4j
+
+
+ye sb database h jo sql and nosql ke andr aate h, ye ar v h, yha kuch hi likhe h
+
+kyuki companies apne database rkhti h.
+
+
+sql ke andr jo data base h , un sbhi ki language kind of similar hoti h.
+
+par nosql ke andr jo database h , unki apni language hoti h, apne syntax hote h , usske according vo operation perform karte h.(data store,data delete,data update and many more operations)
+
+
+structured way data kya hota h , jaise ham excel me data store karte h (phle colunm ,phir row) means ham structured formate me data ko store karte h
+
+
+nosql me alg alg database, alg alg type ke data ko store karte h,they even store unstructured data
+
+unstructured data? -- audio file , video file , images  data in these formate are unstructured data.
+
+
+ham yha pr dekhenge ki sql python ke sath kaise kam krega..
+
+ham data apne local sysyem me store karte h,, folder uske andr files ..
+In the similar formate, ham sql ke andr data ko rkhte h,, database ke andr, multiple table bna kar data ko store karte h
+(lekin ye sb code likh kar ham krenge)

@@ -1,0 +1,20 @@
+api vs web Api
+
+
+yek application se dusre application ke bich me interaction kar pate h , with the help of api
+
+---------------------------------------------------------------
+
+api ko ham bna skte h different different protocol se ,like -- tcp/ip , http and many more.(protocol means set of rules), instructions ko follow karke hi api bna skte h.
+
+----------------------------------------------------------------
+
+jo bhi api bnta h, http protocol se , usko khte h web api.(example -- gmail,google)
+
+----------------------------------------------------------------
+
+web api is subset of api
+
+----------------------------------------------------------------
+
+jaise ham offline application ke andr interact karna chahte h to ham tcp protocol ko use karke yek api bna lenge 

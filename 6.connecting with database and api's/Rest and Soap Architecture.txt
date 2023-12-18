@@ -1,0 +1,27 @@
+Rest  and Soap Architecture
+___________________________
+
+Rest Architecture--
+  
+Based on web architecture, web transition , web api.
+http protocol ke jriye ham -- put , get , post , delete karte h
+
+Degined for communication between application and web.
+
+known for its simplicity(easy to develop),scalability,flexibility.
+
+---------------------------------------------------------------
+Soap Architecture--
+
+Based on xml (extended markup language).
+
+follow messaging protocol. 
+means data ko transfer karna , data ko lana , data ko communicate karna sab xml ke through hoga.
+
+xml is like a file system , or markup language.(here we write commands and it works based on it).
+
+Internally xml use WSDL(web service description language), here we write all the instructions ,and with the help of this soap architecture work.
+
+soap also support http , smtp(simple mail transfer protocol),tcp/ip(transmission control protocol).
+
+In terms of implementation soap is kind of complex.
