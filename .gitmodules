@@ -1,0 +1,3 @@
+[submodule "7.web-scrapping-with-data/review-scrapper-aws-main"]
+	path = 7.web-scrapping-with-data/review-scrapper-aws-main
+	url = https://github.com/iNeuronai/review-scrapper-aws-main.git
